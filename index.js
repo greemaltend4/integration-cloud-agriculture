@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Bienvenue sur l\'application Intégration Cloud Agriculture!');
+  res.send('Bienvenue sur l\'application d\'Intégration Cloud Agriculture!');
 });
 
 app.listen(port, () => {
