@@ -13,3 +13,6 @@ Merci de votre intérêt pour contribuer à notre projet !
 - Soyez respectueux dans vos commentaires et interactions.
 - Assurez-vous que votre code suit les meilleures pratiques de codage.
 - Testez soigneusement votre code avant de soumettre une Pull Request.
+
+### Remarques supplémentaires
+- N'oubliez pas de mettre à jour la documentation si nécessaire.
